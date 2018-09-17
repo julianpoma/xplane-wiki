@@ -37,6 +37,7 @@
 - Aerolineas Argentinas: 
     - https://forums.x-plane.org/index.php?/files/file/43456-aerolineas-argentinas-lv-jmy-in-80s-livery-for-flyjsim-737-200-twinjet-v3/
     - https://forums.x-plane.org/index.php?/files/file/45310-aerolineas-argentinas-90s-flyjsim-732-v3-lv-jnd/
+- Repaints: https://www.flyjsim.com/732liveries
 
 
 ## IXEG 737
