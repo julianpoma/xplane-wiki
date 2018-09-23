@@ -5,7 +5,7 @@
 - Download link: https://drive.google.com/drive/folders/0B-tdl3VvPeOOYm12Wm80V04wdDQ
 - Forum thread: https://forums.x-plane.org/index.php?/forums/topic/138974-b737-800x-zibo-mod-info-installation-download-links/
 - FMOD: Included in the download version since v3.30
-- AviTab by Folko: https://forums.x-plane.org/index.php?/files/file/44825-avitab-vr-compatible-tablet-with-pdf-viewer-moving-maps-and-more/
+- AviTab by Folko: https://forums.x-plane.org/index.php?/files/file/44825-avitab-vr-compatible-tablet-with-pdf-viewer-moving-maps-and-more/ (https://github.com/fpw/avitab)
 - AIRAC: uses the default XP one
 - Liveries
     - https://forums.x-plane.org/index.php?/forums/topic/138223-default-zibomod-737-800-liveries-list/
