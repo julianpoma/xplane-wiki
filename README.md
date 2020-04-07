@@ -18,6 +18,10 @@
 - Librain: https://forums.x-plane.org/index.php?/files/file/58207-default-cessna-172sp-librain-with-xlua/
 - No wheels fairings: https://forums.x-plane.org/index.php?/files/file/52515-laminar-cessna-172-no-pants/
 
+# Scenery
+- US Forests: https://forums.x-plane.org/index.php?/files/file/45408-us-forests-and-woodland-for-ortho-scenery/
+- L52 Oceano: https://forums.x-plane.org/index.php?/files/file/39670-l52-oceano-county-airport-custom-hd/
+
 # Utilities
 - Differential brakes with trigger: https://forums.x-plane.org/index.php?/files/file/37662-differential-and-progressive-brakes-for-x-plane-11/
 - FlyWithLUA: https://forums.x-plane.org/index.php?/files/file/38445-flywithlua-ng-next-generation-edition-for-x-plane-11-win-lin-mac/
