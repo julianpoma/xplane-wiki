@@ -34,6 +34,7 @@
 
 # Textures 
 - Vivid sky: https://forums.x-plane.org/index.php?/files/file/48315-vivid-sky/
+- Cloud Art: https://forum.thresholdx.net/files/file/425-cloud-art/
 
 # Mics: 
 - Airline mods (list): https://forum.thresholdx.net/files/category/43-airliner-mods/
